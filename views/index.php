@@ -29,6 +29,8 @@
                             <button type="submit" class="btn btn-primary w-100">Login</button>
                         </form>
                         <p class="text-center mt-3 small"> <a href="register.php">Create Account</a></p>
+                        <p>Kredo 2023</p> 
+                        <!-- for git test -->
                     </div>
                 </div>
             </div>
